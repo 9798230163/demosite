@@ -1,0 +1,50 @@
+
+h1{
+    background: read;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+nav{
+    width: 60vw;
+}
+
+
+.bigImage{
+    width: 95vw;
+    margin-bottom: 4rem;
+}
+
+.container>div
+{
+    text-align: center;
+}
+
+.container>div
+{
+    font-size: x-large;
+}
+
+.container
+{
+    display:flex;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    height: 4rem;
+    font-size: x-large;
+}
+footer>p{
+    padding: 1rem;
+}
